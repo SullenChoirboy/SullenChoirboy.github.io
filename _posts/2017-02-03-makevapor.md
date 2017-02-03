@@ -18,7 +18,7 @@ categories: douban
 ![Image Title](https://www.tuchuang001.com/images/2017/02/03/15.jpg)
 
 Plunderphonic: 
-[http://www.plunderphonics.com/ ](http://)
+http://www.plunderphonics.com/
 
 Machintosh Plus < Floral shoppe>:
-[https://vektroid.bandcamp.com/album/floral-shoppe](http://)
+https://vektroid.bandcamp.com/album/floral-shoppe

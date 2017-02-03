@@ -1,8 +1,14 @@
 # Created by Jekyll Writer
-title: My Blog
-email: chq970220@gmail.com
+title: Cool Man!
+author: SullenChoirboy
 description: welcome to my blog
+baseurl: ''
 permalink: '/:year/:month/:day/:title/'
-twitter_username: ChanChalie
+paginate: 6
+paginate_path: '/page/:num/'
+twitter_username: ChanCharlie
 github_username: SullenChoirboy
+gems:
+  - jekyll-paginate
 markdown: kramdown
+url: ''

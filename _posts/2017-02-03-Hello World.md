@@ -2,8 +2,8 @@
 layout: post
 title: Hello World
 date: '2017-2-3 14:30'
-tags: '技术'
-categories: 'SullenChoirboy'
+tags: 技术
+categories: SullenChoirboy
 ---
 “Hello, world"程序是指在计算机屏幕上输出“Hello,world”这行字符串的计算机程序，“hello, world”的中文意思是“世界，你好”。  
 这个例程在Brian Kernighan 和Dennis M. Ritchie合著的《The C Programme Language》使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次出现在1974年Brian Kernighan所撰写的《Programming in C: A Tutorial》  

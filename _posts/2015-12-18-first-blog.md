@@ -8,4 +8,4 @@ categories: 'Theme, Jekyll Writer'
 终于搞定了，但是完全不会用JekyllWriter啊！
 叙述一下搭建的步骤，我采用的是GithubPages+JekyllWriter的方法。
 首先，需要注册Github。
-![tumblr_nf7gzqO6Ki1s3dkoso1_500](https://portal.qiniu.com/bucket/sullen/indexJekyllWriter/tumblr_nf7gzqO6Ki1s3dkoso1_500.jpg)
+![tumblr_nqwriwpdAf1u877hwo1_500](oks85ycsb.bkt.clouddn.cnJekyllWriter/tumblr_nqwriwpdAf1u877hwo1_500.jpg)

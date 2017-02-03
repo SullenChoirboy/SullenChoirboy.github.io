@@ -1,14 +1,10 @@
 # Created by Jekyll Writer
-title: 文章
-author: Jekyll Writer
-description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
-permalink: '/:year/:month/:day/:title/'
-paginate: 6
-paginate_path: '/page/:num/'
-github_username: jekyllwriter
-gems:
-  - jekyll-paginate
-markdown: kramdown
+title: Sullen_Choirboy's Blog
+email: chq970220@gmail.com
+description: welcome to my blog
 baseurl: ''
+url: ''
+permalink: '/:year/:month/:day/:title/'
+twitter_username: ChanChalie
+github_username: SullenChoirboy
+markdown: kramdown

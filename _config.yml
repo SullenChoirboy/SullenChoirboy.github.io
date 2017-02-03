@@ -1,13 +1,8 @@
 # Created by Jekyll Writer
-title: Sullen_Choirboy's Blog
-author: SullenChoirboy
+title: My Blog
+email: chq970220@gmail.com
 description: welcome to my blog
-baseurl: ''
 permalink: '/:year/:month/:day/:title/'
-paginate: 6
-paginate_path: '/page/:num/'
-twitter_username: ChanCharlie
+twitter_username: ChanChalie
 github_username: SullenChoirboy
-gems: jekyll-paginate
 markdown: kramdown
-url: ''

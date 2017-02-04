@@ -1,6 +1,9 @@
 ---
-title: 織田non的本子
 layout: post
+title: 織田non的本子
+date: '2017-2-4 15:15'
+tags: 漫画
+categories: SullenChoirboy
 ---
 (C91) [妄想コロッセオ (織田non)] C91おまけ本
 

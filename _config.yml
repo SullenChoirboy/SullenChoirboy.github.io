@@ -6,7 +6,7 @@ baseurl: ''
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: ChanCharlie
+twitter_username: ChanChalie
 github_username: SullenChoirboy
 gems:
   - jekyll-paginate
